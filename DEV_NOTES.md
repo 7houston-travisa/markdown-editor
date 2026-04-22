@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed codebase, identified areas for improvement
 - Updated .gitignore to exclude build artifacts
 - Reviewed open issues, added labels
+
+## 2026-04-22
+- Documented config options
